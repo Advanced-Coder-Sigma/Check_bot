@@ -5,7 +5,7 @@ from telegram.helpers import escape_markdown
 
 BOT_TOKEN = "7311258512:AAHyNQX3QHsHAFh5uIx-ERsCVcK7_WIKwqM"
 BOT_OWNER = "@Bhaiya_chips"
-BOT_CREDITS = "@ItsMeCutehack"
+BOT_CREDITS = "@Bhaiya_chips"
 
 async def check(update: Update, context: ContextTypes.DEFAULT_TYPE):
     try:
